@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switchie", "Switchie\Switchie.csproj", "{73BF0E7D-FBF5-459D-880B-EF08F456DC69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switchie.Example", "Switchie.Example\Switchie.Example.csproj", "{A048B6A5-9846-4C1C-AFB0-7298E8D69C3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switchie.Data.Init", "Switchie.Data.Init\Switchie.Data.Init.csproj", "{0B8FA3B2-C04A-4224-976C-19AF5A08C9DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73BF0E7D-FBF5-459D-880B-EF08F456DC69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BF0E7D-FBF5-459D-880B-EF08F456DC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BF0E7D-FBF5-459D-880B-EF08F456DC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BF0E7D-FBF5-459D-880B-EF08F456DC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A048B6A5-9846-4C1C-AFB0-7298E8D69C3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A048B6A5-9846-4C1C-AFB0-7298E8D69C3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A048B6A5-9846-4C1C-AFB0-7298E8D69C3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A048B6A5-9846-4C1C-AFB0-7298E8D69C3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B8FA3B2-C04A-4224-976C-19AF5A08C9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B8FA3B2-C04A-4224-976C-19AF5A08C9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B8FA3B2-C04A-4224-976C-19AF5A08C9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B8FA3B2-C04A-4224-976C-19AF5A08C9DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
